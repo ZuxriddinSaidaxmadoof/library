@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "user_id": 2,
+        "book_id": 1,
+        "start_date": "11-11-2023",
+        "end_date": "1-1-1970"
+    },
+    {
+        "id": 3,
+        "user_id": 3,
+        "book_id": 1,
+        "start_date": "10-10-2023",
+        "end_date": "20-10-2023"
+    },
+    {
+        "id": 4,
+        "user_id": 3,
+        "book_id": 1,
+        "start_date": "10-10-2023",
+        "end_date": "20-10-2023"
+    },
+    {
+        "id": 5,
+        "user_id": 1,
+        "book_id": 1,
+        "start_date": "10-10-2023",
+        "end_date": "20-10-2023"
+    }
+]
